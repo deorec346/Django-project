@@ -1,1 +1,0 @@
-from watchlist.models import Movie
